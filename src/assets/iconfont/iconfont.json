@@ -1,0 +1,30 @@
+{
+  "id": "3902615",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "435957",
+      "name": "手机号码",
+      "font_class": "shoujihaoma",
+      "unicode": "e7d0",
+      "unicode_decimal": 59344
+    },
+    {
+      "icon_id": "1186829",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "6186661",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}
