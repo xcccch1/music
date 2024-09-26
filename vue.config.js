@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-    outputDir: 'music',
+    outputDir: 'dist',
     transpileDependencies: true,
     lintOnSave: false,
     devServer: {
@@ -8,7 +8,7 @@ module.exports = defineConfig({
         port: 80,
         proxy: {
             '/a': {
-                target: 'http://47.113.178.98:3000',
+                target: 'http://xcccch1.top:3000',
                 pathRewrite: { "^/a": "" },
                 changOrigin: true
             }
